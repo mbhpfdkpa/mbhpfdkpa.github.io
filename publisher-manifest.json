@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "550e860897ffb3495a119ac5",
+  "owner": "mbhpfdkpa",
+  "repo": "mbhpfdkpa.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "aa9905daa9f93becec9b3f89",
+      "a": "次元链接(cylink)",
+      "b": "加速器官网",
+      "entity": "次元链接(cylink)",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "03dfb7b936dd92cca0a71ad37bee8693b27e23df43a98a609eb4d04882b4aa95",
+      "content": {
+        "primary_entity": "次元链接(cylink)",
+        "keyword1": "次元链接(cylink)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据日常使用的设备选择客户端，Windows、macOS、Android、iOS 与路由器均有对应配置方式，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择合适套餐，完成订阅后即可在常用客户端上开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，次元链接(cylink)提供基础版、旗舰版与团队版三种套餐，分别适合轻度上网、多设备同时在线以及小型团队协作场景。按月或按年付费均可，年付方案更经济。",
+          "AI_FEATURES_INTRO": "从设备数量、流量使用到线路需求，几个要点可以帮你更快定位合适的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合手机与电脑轻度使用，旗舰版满足多设备与流媒体需求，团队版面向多成员共享高带宽场景。",
+          "AI_FEATURE_TEXT_2": "先确认常用设备数量，再对照各套餐的同时在线设备上限，避免频繁切换账号或额外增购。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更划算；订阅周期内流量按月重置，按年付可减少续费操作，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "按使用场景选",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TITLE_3": "定订阅周期",
+          "AI_GUIDE_INTRO": "从选择套餐到完成客户端配置，三步即可开始使用次元链接(cylink)。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "次元链接(cylink)提供多种海外加速套餐，覆盖日常浏览、流媒体与游戏加速需求。按设备数量与流量选择合适方案，配合各平台客户端即可完成订阅配置，适合个人及小型团队使用。",
+          "AI_HERO_SUBTITLE": "多设备适配的海外加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案更经济",
+          "AI_HIGHLIGHT_3": "多平台客户端可用",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数量和线路类型上各有侧重，按实际需求对比即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版与团队版之间选择合适方案。",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线数量要求，查看对应客户端是否满足当前使用场景。",
+          "AI_STEP_TEXT_3": "按照所用客户端的配置文档导入订阅信息，完成连接设置后即可正常使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "次元链接多设备加速",
+          "AI_FAQ_ANSWER_1": "基础版允许少量设备同时在线，旗舰版可覆盖手机加平板与电脑，团队版面向多人共享。超出后可断开闲置设备或升级套餐。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，年付把月均费用降到更低。长期使用且流量稳定时，年付更划算；不确定用量可先月付再换年付。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线游戏加速优化，对延迟敏感的游戏与实时应用更友好。基础版为普通线路节点池，日常浏览足够。",
+          "AI_FAQ_ANSWER_4": "可以。升级后按新套餐的设备数与流量生效，补齐差价即可，无需重新配置客户端订阅。",
+          "AI_FAQ_ANSWER_5": "按客户端文档导入订阅链接，选择节点后连接。不同系统操作界面不同，路由器端需在管理后台粘贴订阅地址。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_3": "旗舰版的专线适合什么场景？",
+          "AI_FAQ_QUESTION_4": "升级套餐后需要重新配置吗？",
+          "AI_FAQ_QUESTION_5": "订阅导入后如何连接使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "388c78263b813ea16fb204280cdd20d65e1b7074dafd51c558c9e20b84426101",
+    "sitemap.xml": "8dc6ded933134be2d5a26dd3db47077ec54266e7be7d8cfd3243559a9963a026",
+    "robots.txt": "601bb9ae524231337435747f6cc0ccb388932f1647aa258d87c76c7b41d4cddc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a7e974d99ed9bbb91cceb6d6f1653e5102dd318a5f275a57a3362bc3ccf3d2bf"
+}
